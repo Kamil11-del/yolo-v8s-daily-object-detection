@@ -112,7 +112,7 @@ In the Streamlit app, you can upload an image, and the model will return predict
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/humansintheloop/dollar-street-dataset)
 - [Weights and Biases Report of the project](https://api.wandb.ai/links/kamil-khanprogrammer-islamia-college-peshawar/23qjwkj7)
-- [Streamlit App](#) (Add your link here)
+- [Launch Streamlit App](http://10.6.45.116:8501)
 
 ## Contributing
 
